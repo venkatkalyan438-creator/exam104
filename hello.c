@@ -1,5 +1,5 @@
 #include<stdio.h>
 int main()
 {
-	println("Hello Devops");
+	print("Hello Devops");
 }
